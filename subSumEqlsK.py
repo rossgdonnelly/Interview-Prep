@@ -14,3 +14,4 @@ if __name__ == '__main__':
 
     # Function call
     print("Sums: ",subArraySum(arr, K))
+    
