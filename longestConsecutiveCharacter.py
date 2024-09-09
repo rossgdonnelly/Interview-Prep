@@ -26,6 +26,6 @@ def longestConsecutiveCharacter(string):
 
 
 if __name__ == '__main__':
-    string = "AABCDDBBBEA"
+    string = "ROsssssss"
     # Function call
     print("Output: ",longestConsecutiveCharacter(string))
